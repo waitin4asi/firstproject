@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Saurabh Jaiswal (@Saurabhjais07)
+# 👋 Hey there, I'm Saurabh Jaiswal 
 
 🚀 **AI researcher-in-progress | Builder | Tech Enthusiast | Lifelong Learner**
 
@@ -47,22 +47,6 @@
 
 ## 🧭 Philosophy
 > "You don't need permission to build the future."  
-
----
-
-## 📂 Repository Structure
-
-This repository serves as my learning journey and project showcase:
-
-```
-firstproject/
-├── learning/          # Learning notes and tutorials
-│   ├── python/       # Python fundamentals and projects
-│   ├── react/        # React learning and components
-│   └── ai-ml/        # AI/ML experiments and notes
-├── projects/         # Personal projects and experiments
-└── resources/        # Useful resources and references
-```
 
 ---
 
